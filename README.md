@@ -1,2 +1,2 @@
 # Password_Generator
-Random password generator
+ Created a random password generator
